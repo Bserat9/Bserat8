@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+        <style>
+            h1{
+                color:rgb(15, 92, 92);
+            }
+            h2{
+                color:rgb(184, 37, 61);
+            }
+            body{
+                background-color:rgb(30, 132, 166);
+            }
+            h3{
+              color:rgb(2, 3, 3);  
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to the Bahamas</h1>
+        <h2>This is why you should viste the bahamas Today.<em>          </em></h2>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach.png"width="484">
+        <h3> This is amazing site in the Bahamas<br>
+        Can't you just see you and your family spending a relaxing day at the beach.<br>
+        <br>    
+        </h3>
+        <h3>If you want you will be able to book a flight and hotel for the low price of $845!</h3> 
+        <h2>Still not convinced yet.<BR>
+        Let's see about that!<BR>
+        </h2>
+        <img src= "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/lake.png"width="485">
+    <img src= "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-waves-daytime.png"width="485">
+    <h3> The Bahamas has, The third-largest wine cellar is in Nassau..<BR>
+   Just so you know the Bahamas has some of the clearest water in the world.
+ </h3>
+    <h2>There are so many things you can do.</h2>
+    <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-with-palm-trees.png"width="485">
+    <h3>There are 700 islands in The Bahamas.
+<br>
+    The Bahamas is home to its own “sea monster”.
+<br>The Bahamas boasts the third largest barrier reef on the planet.<br> This place even has some of the worlds freshest fruits.
+    
+    </h3>
+    <h2>Don't forget all these tasty fruits the Bahamas has to offer!</h2>
+    <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/berries.png"width="485">
+    <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/broccoli.png"width="485">
+    <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/bananas.png"width="485">
+    <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/shish-kebab.png"width="485">
+    <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/grapes.png"width="485">
+    <img src = "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/strawberries.png"width="485">
+    <h1>The best time to visit the Bahamas is from mid-December to mid-April, the country's peak season!</h1>
+    </body>
+</html>
